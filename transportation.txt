@@ -1,0 +1,297 @@
+U1
+U2
+U3
+U4
+U5
+U6
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+S8
+Stammstrecke
+Mittlerer Ring
+Bundesstraße B Zwo R
+OEZ
+Westfriedhof
+Rotkreuzplatz
+Hauptbahnhof
+Sendlinger Tor
+Kolumbusplatz
+Wettersteinplatz
+Mangfallplatz
+Feldmoching
+Harthof
+Scheidplatz
+Hauptbahnhof
+Sendlinger Tor
+Kolumbusplatz
+Giesing Bahnhof
+Innsbrucker Ring
+Trudering
+Messestadt-Ost
+Moosach
+OEZ
+Olympiazentrum
+Oberwiesenfeld
+Scheidplatz
+Münchner Freiheit
+Odeonsplatz
+Marienplatz
+Sendlinger Tor
+Implerstraße
+Thalkirchen
+Tierpark
+Aidenbachstraße
+Fürstenried West
+Westendstraße
+Theresienwiese
+Hauptbahnhof
+Karlsplatz 
+Stachus
+Odeonsplatz
+Max-Weber-Platz
+Arabellapark
+Laimer Platz
+Westendstraße
+Theresienwiese
+Hauptbahnhof
+Innsbrucker Ring
+Neuperlach Zentrum
+Neuperlach Süd
+Garching–Forschungszentrum
+Fröttmaning
+Münchner Freiheit
+Odeonsplatz
+Marienplatz
+Sendlinger Tor
+Implerstraße
+Harras
+Klinikum Großhadern
+OEZ
+Rotkreuzplatz
+Hauptbahnhof
+Sendlinger Tor
+Kolumbusplatz
+Giesing Bf.
+Innsbrucker Ring
+Neuperlach Zentrum
+Olympiazentrum
+Scheidplatz
+Königsplatz
+Hauptbahnhof
+Sendlinger Tor
+Kolumbusplatz
+Giesing Bf.
+Innsbrucker Ring
+Neuperlach Zentrum 
+Donnersberger Brücke
+Hackerbrücke
+Hauptbahnhof
+Karlsplatz Stachus
+Marienplatz
+Isartor
+Rosenheimer Platz
+Ostbahnhof
+Freising
+Pulling
+Neufahrn
+Flughafen München
+Flughafen Besucherpark
+Neufahrn
+Eching
+Lohhof
+Unterschleißheim
+Oberschleißheim
+Feldmoching
+Fasanerie
+Moosach
+Laim
+Hirschgarten
+Donnersbergerbrücke
+Hackerbrücke
+Hauptbahnhof
+Marienplatz
+Isartor
+Rosenheimer Platz
+Ostbahnhof
+Leuchtenbergring
+Petershausen
+Vierkirchen-Esterhofen
+Röhrmoos
+Hebertshausen
+Dachau 
+Altomünster
+Kleinberghofen
+Erdweg
+Arnbach
+Markt Indersdorf
+Niederroth
+Schwabhausen
+Bachern
+Dachau Stadt
+Karlsfeld
+Allach
+Untermenzing
+Obermenzing
+Riem
+Feldkirchen
+Heimstetten
+Grub
+Poing
+Markt Schwaben
+Ottenhofen
+St. Kolomann
+Aufhausen
+Altenerding
+Erding
+Mammendorf
+Malching
+Maisach
+Gernlinden
+Esting
+Olching
+Gröbenzell
+Lochhausen
+Langwied
+St.-Martin-Straße
+Giesing
+Fasangarten
+Fasanenpark
+Unterhaching
+Taufkirchen
+Furth
+Deisenhofen
+Sauerlach
+Otterfing
+Holzkirchen
+Geltendorf
+Türkenfeld
+Grafrath
+Schöngeising
+Buchenau
+Fürstenfeldbruck
+Eichenau
+Puchheim
+Aubing
+Leienfelsstraße
+Pasing
+Laim
+Leuchtenbergring
+Berg am Laim
+Trudering
+Tutzing
+Feldafing
+Possenhofen
+Starnberg
+Starnberg Nord
+Gauting
+Stockdorf
+Planegg
+Gräfelfing
+Lochham
+Westkreuz
+Pasing
+Trudering
+Gronsdorf
+Haar
+Vaterstetten
+Baldham
+Zorneding
+Eglharting
+Kirchseeon
+Grafing Bahnhof
+Grafing Stadt
+Ebersberg
+Wolfratshausen
+Icking
+Ebenhausen-Schäftlarn
+Hohenschäftlarn
+Baierbrunn
+Buchenhain
+Höllriegelskreuth
+Pullach
+Großhesselohe Isartalbahnhof
+Solln
+Siemenswerke
+Mittersendling
+Harras
+Heimeranplatz
+Donnersbergerbrücke
+Neuperlach Süd
+Neubiberg
+Ottobrunn
+Hohenbrunn
+Wächterhof
+Höhenkirchen-Siegertsbrunn
+Dürrnhaar
+Aying
+Peiß
+Großhelfendorf
+Kreuzstraße
+Herrsching
+Seefeld-Hechendorf
+Steinebach
+Weßling
+Neugilching
+Gilching-Argelsried
+Geisenbrunn
+Germering-Unterpfaffenhofen
+Harthaus
+Freiham
+Neuaubing
+Westkreuz
+Pasing
+Laim
+Hirschgarten
+Daglfing
+Englschalking
+Johanneskirchen
+Unterföhring
+Ismaning
+Hallbergmoos
+Flughafen Besucherpark
+Flughafen München
+Pasing
+Heimeranplatz
+Mittersendling
+Siemenswerke
+Solln
+Großhesselohe Isartalbahnhof
+Pullach
+Höllriegelskreuth 
+Isarring Biedersteiner Tunnel
+Effnerplatz Effnertunnel
+Richard-Strauss-Straße Richard-Strauss-Tunnel
+Leuchtenbergring Leuchtenbergring-Unterführung
+Innsbrucker Ring Innsbrucker-Ring-Tunnel
+Chiemgaustraße
+Tegernseer Landstraße
+Candidstraße Candidtunnel
+Brudermühlstraße Brudermühltunnel
+Heckenstallerstraße Heckenstallertunnel
+Luise-Kiesselbach-Platz Luise-Kiesselbach-Tunnel
+Garmischer Straße Luise-Kiesselbach-Tunnel
+Heimeranplatz Trappentreustraße Trappentreutunnel
+Landshuter Allee Landshuter-Allee-Tunnel
+Georg-Brauchle-Ring
+Petuelring Petueltunnel
+Schenkendorfstraße 
+Altstadtring
+Altstadtringtunnel
+Von-der-Tann-Straße
+Franz-Josef-Strauß-Ring 
+Karl-Scharnagl-Ring
+Thomas-Wimmer-Ring
+Isartorplatz
+Frauenstraße
+Blumenstraße
+Sendlinger-Tor-Platz
+Sonnenstraße
+Karlsplatz
+Lenbachplatz
+Maximiliansplatz
+Oskar-von-Miller-Ring 
